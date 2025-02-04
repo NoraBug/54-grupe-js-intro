@@ -7,15 +7,44 @@
 ## JavaScript
 
 ### Kintamieji (variables)
+- number
+- string
+- boolean
+- array
+- object
 
 ### Sąlygos (conditionals)
 
+- if
+- switch
+- ternary
+- boolean logika (and,or)
+
 ### Ciklai (loops)
+
+- for
+- for-of
+- for-in
+- while
+- cikliski array metodai
 
 ### Funkcijos/klasės (functions, classes)
 
-### Įvykiai (events, event listeners)
-`#eb1f1f` 
+- function
+- arrow function
+- class (oop)
+- array metodai
+- string metodai
+- object metodai
+- number metodai
+
+
+### Įvykiai, narsykle (events, event listeners)
+
+- DOM
+- event listeners
+- fetch
+- localStorage
 
 ![loaf cat](cat.png)
 
