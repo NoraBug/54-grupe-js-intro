@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "uzduotis": "node --watch js/uzduotys/01-uzduotis.js",
     "numbers": "node --watch js/variables/06-numbers.js",
-    "uzduotis": "node --watch uzduotys/01-uzduotis.js",
     "function": "node --watch js/intro/05-function.js",
     "for": "node --watch js/intro/04-for.js",
     "if": "node --watch js/intro/03-if.js",
