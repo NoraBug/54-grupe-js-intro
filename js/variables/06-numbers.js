@@ -138,7 +138,7 @@ return Math.round (n*(10**amount))/(10**amount);
  console.log(apvalinimas(9.5,2));
  console.log(apvalinimas(3.145,2));
 
-console.clear()
+ console.clear()
 
 let k=5;
 console.log(k);
@@ -149,9 +149,6 @@ console.log(k);
 k+=10;
 console.log(k);
 
-k/=10;
-console.log(k);
-
 ++k;
 console.log(k);
 
@@ -160,14 +157,13 @@ console.log(k);
 
 ++k;
 console.log(k);
-
 console.clear()
 
-let k=10;
+let m=10;
 console.log(k++);
-console.log(k);
 console.log(k++);
-console.log(k);
+console.log(k++);
+
 
 
 
