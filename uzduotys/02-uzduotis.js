@@ -107,3 +107,4 @@ Sukurkite funkciją, kuri pagal vartotojo įvestą temperatūrą(Celsius) priski
 */
 
 
+    
