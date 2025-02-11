@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "drink": "node --watch codewars.js",
-    "uzduotis": "node --watch uzduotys/03-uzduotis.js",
+    "string:method": "node --watch js/variables/08-string-method.js",
+    "string": "node --watch js/variables/07-string.js",
+    "sleep": "node --watch uzduotys/01-penkt-uzd.js",
+    "uzduotis": "node --watch uzduotys/02-uzduotis.js",
     "numbers": "node --watch js/variables/06-numbers.js",
     "function": "node --watch js/intro/05-function.js",
     "for": "node --watch js/intro/04-for.js",
